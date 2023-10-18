@@ -209,6 +209,7 @@ class SDXLPromptStyler:
 
     def __init__(self):
         current_directory = os.path.dirname(os.path.realpath(__file__))
+        print(f'current_directory is {current_directory}')
         self.json_data, styles = load_styles_from_directory(current_directory)
         pass
 
