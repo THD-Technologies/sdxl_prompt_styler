@@ -222,7 +222,7 @@ class SDXLPromptStyler:
                 "text_positive": ("STRING", {"default": "", "multiline": True}),
                 "text_negative": ("STRING", {"default": "", "multiline": True}),
                 "style": ((styles), ),
-                "log_prompt": (["No", "Yes"], {"default":"No"}),
+                "log_prompt": ("BOOLEAN", {"default": True, "label_on": "yes", "label_off": "no"}),
             },
         }
 
@@ -239,7 +239,7 @@ class SDXLPromptStyler:
  
         # If logging is enabled (log_prompt is set to "Yes"), 
         # print the style, positive and negative text, and positive and negative prompts to the console
-        if log_prompt == "Yes":
+        if log_prompt:
             print(f"style: {style}")
             print(f"text_positive: {text_positive}")
             print(f"text_negative: {text_negative}")
@@ -267,7 +267,7 @@ class SDXLPromptStylerAdvanced:
                 "text_negative": ("STRING", {"default": "", "multiline": True}),
                 "style": ((styles), ),
                 "negative_prompt_to": (["Both", "G only", "L only"], {"default":"Both"}),
-                "log_prompt": (["No", "Yes"], {"default":"No"}),
+                "log_prompt": ("BOOLEAN", {"default": True, "label_on": "yes", "label_off": "no"}),
             },
         }
 
@@ -284,7 +284,7 @@ class SDXLPromptStylerAdvanced:
  
         # If logging is enabled (log_prompt is set to "Yes"), 
         # print the style, positive and negative text, and positive and negative prompts to the console
-        if log_prompt == "Yes":
+        if log_prompt:
             print(f"style: {style}")
             print(f"text_positive_g: {text_positive_g}")
             print(f"text_positive_l: {text_positive_l}")
