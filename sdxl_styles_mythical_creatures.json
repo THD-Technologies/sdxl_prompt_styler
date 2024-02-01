@@ -1,0 +1,207 @@
+[
+  {
+    "name": "none byMythical Creatures",
+    "prompt": "",
+    "negative_prompt": ""
+  },
+  {
+    "name": "The Phoenix of Eternal Flame",
+    "prompt": "A majestic bird with iridescent feathers that resurrects from its ashes, symbolizing rebirth and immortality.",
+    "negative_prompt": "Fragile, colorless, flightless, fragile, mundane."
+  },
+  {
+    "name": "The Enchanted Forest Nymph",
+    "prompt": "A graceful woodland spirit who guards ancient groves and has the power to heal and protect the forest and its creatures.",
+    "negative_prompt": "Distrustful, reclusive, powerless, ghostly, fading."
+  },
+  {
+    "name": "The Leviathan of the Abyss",
+    "prompt": "A colossal sea serpent that dwells in the darkest depths of the ocean, feared for its immense power and ancient wisdom.",
+    "negative_prompt": "Malformed, motionless, feeble, inanimate, insignificant."
+  },
+  {
+    "name": "The Sphinx of Riddles",
+    "prompt": "A creature with the body of a lion, wings of an eagle, and the head of a human, known for challenging travelers with perplexing riddles.",
+    "negative_prompt": "Confused, transparent, muted, uninspiring, predictable."
+  },
+  {
+    "name": "The Faerie Court of Dreams",
+    "prompt": "A realm inhabited by ethereal beings who create dreams and bring enchantment to the mortal world, Woodland, Mystical, Dreams, Glamour, Imagination",
+    "negative_prompt": "Fading, mundane, forgotten, elusive, colorless."
+  },
+  {
+    "name": "The Chimera, Guardian of the Labyrinth",
+    "prompt": "A fearsome creature with the body of a lion, the head of a goat, and the tail of a serpent, guarding the entrance to a treacherous maze.",
+    "negative_prompt": "Powerless, fragmented, unstable, dissonant, shattered."
+  },
+  {
+    "name": "The Griffin of Valor",
+    "prompt": "A noble and majestic creature with the body of a lion and the head of an eagle, symbolizing courage and honor.",
+    "negative_prompt": "Cowardly, misshapen, insignificant, timid, uninspiring."
+  },
+  {
+    "name": "The Banshee, Wailer of Fate",
+    "prompt": "A female spirit known for her mournful wails that foretell impending doom and tragedy.",
+    "negative_prompt": "Silent, unfeeling, insignificant, ignored, fading."
+  },
+  {
+    "name": "The Pegasus, Steed of the Heavens",
+    "prompt": "A winged horse that soars through the skies, representing freedom, grace, and untamed beauty.",
+    "negative_prompt": "Earthbound, clumsy, grounded, mundane, lifeless."
+  },
+  {
+    "name": "The Kraken, Terror of the Deep",
+    "prompt": "A monstrous sea creature with tentacles that drags ships and sailors to the depths, shrouded in legends of the abyss.",
+    "negative_prompt": "Harmless, dormant, transparent, weak, irrelevant."
+  },
+  {
+    "name": "The Seraphim, Celestial Guardians",
+    "prompt": "Majestic beings with multiple wings and fiery auras, tasked with safeguarding the divine realms from dark forces.",
+    "negative_prompt": "Fallen, corrupted, forsaken, powerless, dimly lit."
+  },
+  {
+    "name": "The Gorgon, Petrifying Horror",
+    "prompt": "A monstrous creature with snakes for hair, capable of turning anyone who gazes upon it into stone with a single look.",
+    "negative_prompt": "Blind, feeble, harmless, transparent, pitiful."
+  },
+  {
+    "name": "The Thunderbird, Stormbringer of the Skies",
+    "prompt": "A colossal bird with wings that command the thunder and lightning, revered as a harbinger of storms and renewal.",
+    "negative_prompt": "Caged, grounded, silenced, dormant, mundane."
+  },
+  {
+    "name": "The Kitsune, Shape-shifting Trickster",
+    "prompt": "Cunning fox spirits from Japanese folklore, known for their shape-shifting abilities and mischievous pranks.",
+    "negative_prompt": "Exposed, powerless, mundane, predictable, transparent."
+  },
+  {
+    "name": "The Minotaur, Maze Dweller",
+    "prompt": "A fearsome creature with the body of a human and the head of a bull, residing in labyrinthine mazes, guarding hidden treasures.",
+    "negative_prompt": "Lost, confused, aimless, powerless, uninspiring."
+  },
+  {
+    "name": "The Valkyrie, Choosers of the Slain",
+    "prompt": "Noble warrior maidens from Norse mythology, who guide fallen heroes to the afterlife's grand halls in Valhalla.",
+    "negative_prompt": "Banished, forgotten, powerless, fading, aimless."
+  },
+  {
+    "name": "The Manticore, Dreaded Hunter",
+    "prompt": "A creature with the body of a lion, a human face, and rows of sharp teeth, known for its deadly hunting prowess and love for human flesh.",
+    "negative_prompt": "Hungry, feeble, impotent, cowardly, inconspicuous."
+  },
+  {
+    "name": "The Dryad, Guardian of the Forest",
+    "prompt": "A gentle woodland spirit, inseparably linked to a specific tree, who protects her forest with fierce devotion.",
+    "negative_prompt": "Withering, powerless, displaced, silent, forgotten."
+  },
+  {
+    "name": "The Naiad, River Nymph of Tranquility",
+    "prompt": "A serene water nymph residing in rivers and streams, bringing calmness and tranquility to her watery domain.",
+    "negative_prompt": "Stagnant, powerless, desolate, faded, unnoticed."
+  },
+  {
+    "name": "The Roc, King of the Avians",
+    "prompt": "A colossal and legendary bird of prey, capable of carrying off elephants, known for its majestic and awe-inspiring presence.",
+    "negative_prompt": "Grounded, helpless, flightless, obscure, muted."
+  },
+  {
+    "name": "The Unicorn's Elegance",
+    "prompt": "A gentle and majestic horse-like creature with a single spiral horn on its forehead, symbolizing purity and grace.",
+    "negative_prompt": "Ungraceful, ordinary, lacking purity, unremarkable, insignificant."
+  },
+  {
+    "name": "The Dragon's Hoard",
+    "prompt": "A fearsome and intelligent fire-breathing dragon known for guarding vast treasures in its lair, representing both power and greed.",
+    "negative_prompt": "Non-guarding, ordinary, lacking treasures, unremarkable, insignificant."
+  },
+  {
+    "name": "The Mermaid's Melody",
+    "prompt": "A beautiful aquatic creature with the upper body of a human and the lower body of a fish, captivating sailors with enchanting songs and luring them beneath the waves.",
+    "negative_prompt": "Non-captivating, ordinary, lacking songs, unremarkable, insignificant."
+  },
+  {
+    "name": "The Thunderbird's Roar",
+    "prompt": "A giant bird of Native American folklore with the power to create thunderstorms, representing the awe-inspiring forces of nature.",
+    "negative_prompt": "Non-thunderous, ordinary, lacking storms, unremarkable, insignificant."
+  },
+  {
+    "name": "The Valkyrie's Valor",
+    "prompt": "A divine warrior maiden from Norse mythology, choosing the bravest fallen warriors to join the ranks of the gods in Valhalla, embodying valor and honor.",
+    "negative_prompt": "Unvalorous, ordinary, lacking honor, unremarkable, insignificant."
+  },
+  {
+    "name": "The Yeti's Elusiveness",
+    "prompt": "A legendary ape-like creature said to inhabit the Himalayan mountains, known for its elusive nature and sightings in the snowy wilderness.",
+    "negative_prompt": "Non-elusive, ordinary, lacking sightings, unremarkable, insignificant."
+  },
+  {
+    "name": "The Basilisk's Deadly Gaze",
+    "prompt": "A serpent-like creature with a venomous glare that can kill with a single glance, embodying the danger and terror of the unknown.",
+    "negative_prompt": "Non-deadly, ordinary, lacking danger, unremarkable, insignificant."
+  },
+  {
+    "name": "The Kappa's Watery Mischief",
+    "prompt": "A mischievous water creature from Japanese folklore, known for playing pranks and tricks near bodies of water, both delighting and unsettling humans.",
+    "negative_prompt": "Non-mischievous, ordinary, lacking pranks, unremarkable, insignificant."
+  },
+  {
+    "name": "The Chupacabra's Bloodlust",
+    "prompt": "A cryptid creature from Latin American folklore said to drink the blood of livestock, striking fear into the hearts of rural communities.",
+    "negative_prompt": "Non-bloodthirsty, ordinary, lacking livestock, unremarkable, insignificant."
+  },
+  {
+    "name": "The Wendigo's Hunger",
+    "prompt": "A malevolent creature from Algonquian folklore, representing cannibalistic greed and the horrors of wilderness survival.",
+    "negative_prompt": "Non-cannibalistic, ordinary, lacking hunger, unremarkable, insignificant."
+  },
+  {
+    "name": "The Manticore's Ferocity",
+    "prompt": "A legendary beast with the body of a lion, a human head, and a tail full of deadly spines, known for its ferocious nature and fearsome appearance.",
+    "negative_prompt": "Non-ferocious, ordinary, lacking spines, unremarkable, insignificant."
+  },
+  {
+    "name": "The Nymph's Enchantment",
+    "prompt": "A beautiful and ethereal female spirit of nature, associated with specific natural features and capable of enchanting those who encounter her.",
+    "negative_prompt": "Unenchanting, ordinary, lacking nature, unremarkable, insignificant."
+  },
+  {
+    "name": "The Jinn's Wish-Granting",
+    "prompt": "A supernatural creature from Middle Eastern folklore, capable of granting wishes to those who summon and appease it, embodying the power of desire and temptation.",
+    "negative_prompt": "Non-wish-granting, ordinary, lacking wishes, unremarkable, insignificant."
+  },
+  {
+    "name": "The Leshy's Forest Mischief",
+    "prompt": "A mischievous woodland spirit from Slavic mythology, known for leading travelers astray in the forest and causing them to become lost.",
+    "negative_prompt": "Non-mischievous, ordinary, lacking mischief, unremarkable, insignificant."
+  },
+  {
+    "name": "The Tengu's Martial Prowess",
+    "prompt": "A bird-like creature from Japanese folklore, skilled in martial arts and known for both protecting and tormenting humans in the mountains.",
+    "negative_prompt": "Non-skilled, ordinary, lacking martial arts, unremarkable, insignificant."
+  },
+  {
+    "name": "The Thunder Horse's Storm Control",
+    "prompt": "A divine horse from Chinese mythology, capable of controlling thunder and rain, symbolizing the power and unpredictability of the natural world.",
+    "negative_prompt": "Non-controlling, ordinary, lacking thunder, unremarkable, insignificant."
+  },
+  {
+    "name": "The Roc's Soaring Majesty",
+    "prompt": "A colossal bird of prey from Arabian mythology, capable of carrying elephants in its talons and representing the awe-inspiring forces of the sky.",
+    "negative_prompt": "Non-soaring, ordinary, lacking majesty, unremarkable, insignificant."
+  },
+  {
+    "name": "The Bunyip's Aquatic Mystery",
+    "prompt": "A mysterious aquatic creature from Australian Aboriginal mythology, known for lurking in swamps and waterways, embodying the enigmas of the deep waters.",
+    "negative_prompt": "Non-mysterious, ordinary, lacking aquatic traits, unremarkable, insignificant."
+  },
+  {
+    "name": "The Chimalli's Shield of Protection",
+    "prompt": "A protective spirit from Aztec mythology, associated with shields and safeguarding warriors in battle, symbolizing defense and resilience.",
+    "negative_prompt": "Non-protective, ordinary, lacking shields, unremarkable, insignificant."
+  },
+  {
+    "name": "The Ifrit's Fiery Wrath",
+    "prompt": "A powerful and malevolent fire demon from Middle Eastern folklore, capable of causing destruction and chaos, embodying the destructive power of fire.",
+    "negative_prompt": "Non-destructive, ordinary, lacking fire, unremarkable, insignificant."
+  }
+]
