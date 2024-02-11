@@ -1,7 +1,7 @@
 [
   {
     "name": "VenusAI-Anime-Underwater",
-    "prompt": "art photo by michiko kon, intricate, ultra-detailed, sharp details, cg 8k wallpaper, underwater lighting, beautiful underwater scene, {prompt} .",
+    "prompt": "art photo by michiko kon, intricate, ultra-detailed, sharp details, cg 8k wallpaper, underwater lighting, beautiful underwater scene, {prompt} . art photo by michiko kon, intricate, ultra-detailed, sharp details, cg 8k wallpaper, underwater lighting, beautiful underwater scene",
     "negative_prompt": "(nipples:1.5), (worst quality:1.3), unfinished sketch, blurry, normal, mundane, boring, everyday, safe, ordinary, monochrome, greyscale, NSFW, text, watermark"
   },
   {
