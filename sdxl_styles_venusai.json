@@ -6,7 +6,7 @@
   },
   {
     "name": "VenusAI-Anime-Wizardry",
-    "prompt": "{prompt} fire magic spell, fire background, ice magic spell, ice background",
+    "prompt": "fire magic spell, fire background, ice magic spell, ice background, {prompt} . fire magic spell, fire background, ice magic spell, ice background, {prompt}",
     "negative_prompt": "(nipples:1.5), (worst quality:1.3), unfinished sketch, blurry, normal, mundane, boring, everyday, safe, ordinary, monochrome, greyscale, NSFW, text, watermark"
   },
   {
