@@ -1,7 +1,7 @@
 [
   {
     "name": "base MonAI",
-    "prompt": "photo of an adorable {prompt} . shs style, <lora:add-detail-xl:1>, <lora:fix_hands:1>",
+    "prompt": "photo of an adorable {prompt}, shs style, <lora:add-detail-xl:1>, <lora:fix_hands:1>",
     "negative_prompt": ""
   },
   {
