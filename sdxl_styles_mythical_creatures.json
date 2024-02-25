@@ -1,8 +1,8 @@
 [
   {
     "name": "base MonAI",
-    "prompt": "photo of an adorable {prompt}, shs style, <lora:add-detail-xl:1>, <lora:fix_hands:1>",
-    "negative_prompt": ""
+    "prompt": "photo of an adorable {prompt}, in (shs style:1.5), key visual, vibrant, highly detailed",
+    "negative_prompt": "photo, deformed, black and white, realism, disfigured, low contrast"
   },
   {
     "name": "The Phoenix of Eternal Flame",
