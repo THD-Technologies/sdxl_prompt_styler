@@ -1,7 +1,7 @@
 [
   {
     "name": "base MonAI",
-    "prompt": "anime artwork of an adorable {prompt}, in (shs style:1.5), anime style, key visual, vibrant, studio anime, highly detailed",
+    "prompt": "anime artwork of an adorable {prompt}, in shs style, anime style, key visual, vibrant, studio anime, highly detailed",
     "negative_prompt": "photo, deformed, black and white, realism, disfigured, low contrast"
   },
   {
